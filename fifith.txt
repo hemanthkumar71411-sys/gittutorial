@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is fifth file
-=======
-this is fifth file
-file updated
->>>>>>> feature
+this is fifth file 
+this is updated file
